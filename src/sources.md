@@ -1,0 +1,3 @@
+- sitelen pona pona; 2020, Jack Humbert, SIL Open Font License: https://jackhumbert.github.io/sitelen-pona-pona/fonts/sitelen-pona-pona.otf https://jackhumbert.github.io/sitelen-pona-pona/
+- linja pimeja; 2020, jan Inkepa, Creative Commons 0: https://jcdietrich.github.io/linjapimeja19.ttf	https://web.archive.org/web/20200908080324if_/https://github.com/increpare/linja_pimeja
+- Pointfree; 2011, wrp, Unlicense: https://www.dafont.com/pointfree.font
